@@ -1,5 +1,17 @@
-## Hi there 👋
+## ciao a tutti👋
+Sono uno studente di Cybersecurity con un interesse forte per il mondo offensivo e difensivo. Imparo costruendo: sviluppo piccoli tool in Python e C, studio protocolli di rete e mi alleno ogni giorno su CTF, macchine vulnerabili e laboratori reali. Il mio obiettivo è crescere come Penetration Tester o SOC Analyst, unendo teoria e pratica in modo concreto.
 
+🔭 Attualmente sto lavorando su:
+Migliorare i miei strumenti personali di sicurezza, rafforzare le basi di networking e completare il mio percorso di studi approfondendo attacco e difesa.
+
+🌱 Sto imparando:
+Ethical hacking attraverso CTF, reti, analisi del traffico, tecniche di attacco e metodologie professionali di pentesting.
+
+👯 Vorrei collaborare su:
+Team CTF, tool open-source legati alla sicurezza, ricerca di vulnerabilità e progetti difensivi.
+
+🤝 Cerco supporto su:
+Mentorship da professionisti del settore e opportunità per applicare le mie competenze in contesti reali (Red Team, SOC, analisi incidenti).
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
